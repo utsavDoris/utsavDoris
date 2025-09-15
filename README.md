@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Utsav from Doris Solutions!
+# 👋 Hi, I'm Utsav from Doris Infotech!
 
 🚀 **Full-Stack Developer | Next.js | Node.js | Tailwind CSS | TypeScript**
 
